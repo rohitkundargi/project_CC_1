@@ -1,1 +1,1 @@
-# project_CC_1
+# CC_Project
